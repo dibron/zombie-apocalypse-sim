@@ -4,6 +4,7 @@ build/
 .idea/
 *.iml
 out/
+.kotlin/
 
 # Planning docs - kept local, not pushed to GitHub
 PLAN.md
