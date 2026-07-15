@@ -1,0 +1,10 @@
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.idea/
+*.iml
+out/
+
+# Planning docs - kept local, not pushed to GitHub
+PLAN.md
+PLAN-CODE.md
